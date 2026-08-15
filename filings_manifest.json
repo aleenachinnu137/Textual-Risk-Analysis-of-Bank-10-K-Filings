@@ -1,0 +1,394 @@
+[
+  {
+    "ticker": "SIVB",
+    "fiscal_year": 2016,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\SIVB_2016_10K.html",
+    "status": "present",
+    "bytes": 8431041
+  },
+  {
+    "ticker": "SIVB",
+    "fiscal_year": 2017,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\SIVB_2017_10K.html",
+    "status": "present",
+    "bytes": 8582850
+  },
+  {
+    "ticker": "SIVB",
+    "fiscal_year": 2018,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\SIVB_2018_10K.html",
+    "status": "present",
+    "bytes": 8656898
+  },
+  {
+    "ticker": "SIVB",
+    "fiscal_year": 2019,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\SIVB_2019_10K.html",
+    "status": "present",
+    "bytes": 11595099
+  },
+  {
+    "ticker": "SIVB",
+    "fiscal_year": 2020,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\SIVB_2020_10K.html",
+    "status": "present",
+    "bytes": 10111828
+  },
+  {
+    "ticker": "SIVB",
+    "fiscal_year": 2021,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\SIVB_2021_10K.html",
+    "status": "present",
+    "bytes": 9702467
+  },
+  {
+    "ticker": "SIVB",
+    "fiscal_year": 2022,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\SIVB_2022_10K.html",
+    "status": "present",
+    "bytes": 9797245
+  },
+  {
+    "ticker": "PACW",
+    "fiscal_year": 2016,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\PACW_2016_10K.html",
+    "status": "present",
+    "bytes": 6330619
+  },
+  {
+    "ticker": "PACW",
+    "fiscal_year": 2017,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\PACW_2017_10K.html",
+    "status": "present",
+    "bytes": 6165547
+  },
+  {
+    "ticker": "PACW",
+    "fiscal_year": 2018,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\PACW_2018_10K.html",
+    "status": "present",
+    "bytes": 6434773
+  },
+  {
+    "ticker": "PACW",
+    "fiscal_year": 2019,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\PACW_2019_10K.html",
+    "status": "present",
+    "bytes": 8043253
+  },
+  {
+    "ticker": "PACW",
+    "fiscal_year": 2020,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\PACW_2020_10K.html",
+    "status": "present",
+    "bytes": 8182604
+  },
+  {
+    "ticker": "PACW",
+    "fiscal_year": 2021,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\PACW_2021_10K.html",
+    "status": "present",
+    "bytes": 9095270
+  },
+  {
+    "ticker": "PACW",
+    "fiscal_year": 2022,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\PACW_2022_10K.html",
+    "status": "present",
+    "bytes": 9640084
+  },
+  {
+    "ticker": "WAL",
+    "fiscal_year": 2016,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\WAL_2016_10K.html",
+    "status": "present",
+    "bytes": 7753171
+  },
+  {
+    "ticker": "WAL",
+    "fiscal_year": 2017,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\WAL_2017_10K.html",
+    "status": "present",
+    "bytes": 7425256
+  },
+  {
+    "ticker": "WAL",
+    "fiscal_year": 2018,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\WAL_2018_10K.html",
+    "status": "present",
+    "bytes": 7551212
+  },
+  {
+    "ticker": "WAL",
+    "fiscal_year": 2019,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\WAL_2019_10K.html",
+    "status": "present",
+    "bytes": 9312098
+  },
+  {
+    "ticker": "WAL",
+    "fiscal_year": 2020,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\WAL_2020_10K.html",
+    "status": "present",
+    "bytes": 7565800
+  },
+  {
+    "ticker": "WAL",
+    "fiscal_year": 2021,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\WAL_2021_10K.html",
+    "status": "present",
+    "bytes": 8107925
+  },
+  {
+    "ticker": "WAL",
+    "fiscal_year": 2022,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\WAL_2022_10K.html",
+    "status": "present",
+    "bytes": 8389803
+  },
+  {
+    "ticker": "ZION",
+    "fiscal_year": 2016,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\ZION_2016_10K.html",
+    "status": "present",
+    "bytes": 7703965
+  },
+  {
+    "ticker": "ZION",
+    "fiscal_year": 2017,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\ZION_2017_10K.html",
+    "status": "present",
+    "bytes": 7170333
+  },
+  {
+    "ticker": "ZION",
+    "fiscal_year": 2018,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\ZION_2018_10K.html",
+    "status": "present",
+    "bytes": 7207094
+  },
+  {
+    "ticker": "ZION",
+    "fiscal_year": 2019,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\ZION_2019_10K.html",
+    "status": "present",
+    "bytes": 11458106
+  },
+  {
+    "ticker": "ZION",
+    "fiscal_year": 2020,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\ZION_2020_10K.html",
+    "status": "present",
+    "bytes": 8783956
+  },
+  {
+    "ticker": "ZION",
+    "fiscal_year": 2021,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\ZION_2021_10K.html",
+    "status": "present",
+    "bytes": 8994888
+  },
+  {
+    "ticker": "ZION",
+    "fiscal_year": 2022,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\ZION_2022_10K.html",
+    "status": "present",
+    "bytes": 8643260
+  },
+  {
+    "ticker": "CMA",
+    "fiscal_year": 2016,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\CMA_2016_10K.html",
+    "status": "present",
+    "bytes": 7323998
+  },
+  {
+    "ticker": "CMA",
+    "fiscal_year": 2017,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\CMA_2017_10K.html",
+    "status": "present",
+    "bytes": 7195190
+  },
+  {
+    "ticker": "CMA",
+    "fiscal_year": 2018,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\CMA_2018_10K.html",
+    "status": "present",
+    "bytes": 7199168
+  },
+  {
+    "ticker": "CMA",
+    "fiscal_year": 2019,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\CMA_2019_10K.html",
+    "status": "present",
+    "bytes": 9421300
+  },
+  {
+    "ticker": "CMA",
+    "fiscal_year": 2020,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\CMA_2020_10K.html",
+    "status": "present",
+    "bytes": 8652908
+  },
+  {
+    "ticker": "CMA",
+    "fiscal_year": 2021,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\CMA_2021_10K.html",
+    "status": "present",
+    "bytes": 8109821
+  },
+  {
+    "ticker": "CMA",
+    "fiscal_year": 2022,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\CMA_2022_10K.html",
+    "status": "present",
+    "bytes": 7850615
+  },
+  {
+    "ticker": "KEY",
+    "fiscal_year": 2016,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\KEY_2016_10K.html",
+    "status": "present",
+    "bytes": 9124111
+  },
+  {
+    "ticker": "KEY",
+    "fiscal_year": 2017,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\KEY_2017_10K.html",
+    "status": "present",
+    "bytes": 8268314
+  },
+  {
+    "ticker": "KEY",
+    "fiscal_year": 2018,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\KEY_2018_10K.html",
+    "status": "present",
+    "bytes": 11287754
+  },
+  {
+    "ticker": "KEY",
+    "fiscal_year": 2019,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\KEY_2019_10K.html",
+    "status": "present",
+    "bytes": 11294022
+  },
+  {
+    "ticker": "KEY",
+    "fiscal_year": 2020,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\KEY_2020_10K.html",
+    "status": "present",
+    "bytes": 10336899
+  },
+  {
+    "ticker": "KEY",
+    "fiscal_year": 2021,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\KEY_2021_10K.html",
+    "status": "present",
+    "bytes": 9533662
+  },
+  {
+    "ticker": "KEY",
+    "fiscal_year": 2022,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\KEY_2022_10K.html",
+    "status": "present",
+    "bytes": 9392193
+  },
+  {
+    "ticker": "RF",
+    "fiscal_year": 2016,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\RF_2016_10K.html",
+    "status": "present",
+    "bytes": 8014899
+  },
+  {
+    "ticker": "RF",
+    "fiscal_year": 2017,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\RF_2017_10K.html",
+    "status": "present",
+    "bytes": 7722022
+  },
+  {
+    "ticker": "RF",
+    "fiscal_year": 2018,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\RF_2018_10K.html",
+    "status": "present",
+    "bytes": 8037130
+  },
+  {
+    "ticker": "RF",
+    "fiscal_year": 2019,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\RF_2019_10K.html",
+    "status": "present",
+    "bytes": 10567586
+  },
+  {
+    "ticker": "RF",
+    "fiscal_year": 2020,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\RF_2020_10K.html",
+    "status": "present",
+    "bytes": 9915169
+  },
+  {
+    "ticker": "RF",
+    "fiscal_year": 2021,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\RF_2021_10K.html",
+    "status": "present",
+    "bytes": 9533252
+  },
+  {
+    "ticker": "RF",
+    "fiscal_year": 2022,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\RF_2022_10K.html",
+    "status": "present",
+    "bytes": 9462445
+  },
+  {
+    "ticker": "FITB",
+    "fiscal_year": 2016,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\FITB_2016_10K.html",
+    "status": "present",
+    "bytes": 4611776
+  },
+  {
+    "ticker": "FITB",
+    "fiscal_year": 2017,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\FITB_2017_10K.html",
+    "status": "present",
+    "bytes": 4673675
+  },
+  {
+    "ticker": "FITB",
+    "fiscal_year": 2018,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\FITB_2018_10K.html",
+    "status": "present",
+    "bytes": 4784119
+  },
+  {
+    "ticker": "FITB",
+    "fiscal_year": 2019,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\FITB_2019_10K.html",
+    "status": "present",
+    "bytes": 15281721
+  },
+  {
+    "ticker": "FITB",
+    "fiscal_year": 2020,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\FITB_2020_10K.html",
+    "status": "present",
+    "bytes": 11858039
+  },
+  {
+    "ticker": "FITB",
+    "fiscal_year": 2021,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\FITB_2021_10K.html",
+    "status": "present",
+    "bytes": 11670133
+  },
+  {
+    "ticker": "FITB",
+    "fiscal_year": 2022,
+    "path": "E:\\project_placements\\unsupervised\\data\\raw\\FITB_2022_10K.html",
+    "status": "present",
+    "bytes": 11322053
+  }
+]
